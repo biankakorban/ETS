@@ -1,0 +1,11 @@
+C:\Users\Bianka\Desktop\Project_Programming2\C#\ETS\Model\bin\Debug\Model.dll
+C:\Users\Bianka\Desktop\Project_Programming2\C#\ETS\Model\bin\Debug\Model.pdb
+C:\Users\Bianka\Desktop\Project_Programming2\C#\ETS\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Bianka\Desktop\Project_Programming2\C#\ETS\Model\obj\Debug\Model.dll
+C:\Users\Bianka\Desktop\Project_Programming2\C#\ETS\Model\obj\Debug\Model.pdb
+C:\Users\biank\OneDrive\Pulpit\Projects\Project_Programming2\C#\ETS\Model\bin\Debug\Model.dll
+C:\Users\biank\OneDrive\Pulpit\Projects\Project_Programming2\C#\ETS\Model\bin\Debug\Model.pdb
+C:\Users\biank\OneDrive\Pulpit\Projects\Project_Programming2\C#\ETS\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\biank\OneDrive\Pulpit\Projects\Project_Programming2\C#\ETS\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\biank\OneDrive\Pulpit\Projects\Project_Programming2\C#\ETS\Model\obj\Debug\Model.dll
+C:\Users\biank\OneDrive\Pulpit\Projects\Project_Programming2\C#\ETS\Model\obj\Debug\Model.pdb

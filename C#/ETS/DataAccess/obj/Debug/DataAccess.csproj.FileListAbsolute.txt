@@ -1,0 +1,16 @@
+C:\Users\Bianka\Desktop\Project_Programming2\C#\ETS\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Bianka\Desktop\Project_Programming2\C#\ETS\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Bianka\Desktop\Project_Programming2\C#\ETS\DataAccess\bin\Debug\Model.dll
+C:\Users\Bianka\Desktop\Project_Programming2\C#\ETS\DataAccess\bin\Debug\Model.pdb
+C:\Users\Bianka\Desktop\Project_Programming2\C#\ETS\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Bianka\Desktop\Project_Programming2\C#\ETS\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Bianka\Desktop\Project_Programming2\C#\ETS\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\biank\OneDrive\Pulpit\Projects\Project_Programming2\C#\ETS\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\biank\OneDrive\Pulpit\Projects\Project_Programming2\C#\ETS\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\biank\OneDrive\Pulpit\Projects\Project_Programming2\C#\ETS\DataAccess\bin\Debug\Model.dll
+C:\Users\biank\OneDrive\Pulpit\Projects\Project_Programming2\C#\ETS\DataAccess\bin\Debug\Model.pdb
+C:\Users\biank\OneDrive\Pulpit\Projects\Project_Programming2\C#\ETS\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\biank\OneDrive\Pulpit\Projects\Project_Programming2\C#\ETS\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\biank\OneDrive\Pulpit\Projects\Project_Programming2\C#\ETS\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\biank\OneDrive\Pulpit\Projects\Project_Programming2\C#\ETS\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\biank\OneDrive\Pulpit\Projects\Project_Programming2\C#\ETS\DataAccess\obj\Debug\DataAccess.pdb
